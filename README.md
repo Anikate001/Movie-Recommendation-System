@@ -1,7 +1,7 @@
 # Movie-Recommendation-SystemMovie Recommendation System
 
 
-A user-based collaborative filtering movie recommendation system built with Python and pandas using the MovieLens dataset.
+A user-based collaborative filtering movie recommendation system built with Python and pandas using the MovieLens dataset(100k).
 
 This project builds a recommender that predicts user ratings and suggests movies tailored to their tastes based on similar users’ preferences.
 
